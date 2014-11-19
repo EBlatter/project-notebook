@@ -23,4 +23,9 @@ team, how did you share the labor?**
 
 ## Post-critique summary
 
+Sisi said that I should think about how different things are represented within a note, and advised that it's usually easier to deal with things in the interpreter than the parser. She also suggested I work out how easy it is to get pitches from Excel to match music output. Also, because the designing part of this has taken me longer than expected, I may want to rethink my schedule and goals.
+
+
 ## Post-critique reflection
+
+This week, I need to get started on actually coding things. I would still like my prototype to be able to deal with different pitches, and so this should allow me to be able to start testing and tweaking how the semantics deal with different positions of notes in the spreadsheet.
